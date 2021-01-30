@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flávio Dutra</h1>
 <h3 align="center">Software Engineer and Consultant | Oracle and Microsoft Certified</h3>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviomdutra&show_icons=true) 
+
 - 🌱 I’m currently learning **Salesforce**
 
 - 📫 How to reach me **flaviomdutra@outlook.com**
@@ -8,7 +10,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/flaviomdutra](https://www.linkedin.com/in/flaviomdutra)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/flaviomdutra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="flaviomdutra" height="30" width="40" /></a>
 <a href="https://instagram.com/flaviomdutra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="flaviomdutra" height="30" width="40" /></a>
 </p>
