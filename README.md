@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Flávio Dutra</h1>
 <h3 align="center">Software Engineer and Consultant | Oracle and Microsoft Certified</h3>
 
-- 🌱 I’m currently learning **Salesforce**
+🌱 I’m currently learning **Salesforce**
 
-- 📫 How to reach me **flaviomdutra@outlook.com**
+📫 How to reach me **flaviomdutra@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/flaviomdutra](https://www.linkedin.com/in/flaviomdutra)
+📄 Know about my experiences [https://www.linkedin.com/in/flaviomdutra](https://www.linkedin.com/in/flaviomdutra)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/flaviomdutra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="flaviomdutra" height="30" width="40" /></a>
